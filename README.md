@@ -31,7 +31,7 @@ so i have coded:
 
 How to run:
     1)please clone the git folder using:  
-          git clone https://github.com/ManojReddy5233/greenstitch.git
+          git clone https://github.com/deekshith248/Greenstitch.git
     2)now in the folder of greenstitch.io , you can see
                                                       a)ParkingTicketSystem.java
                                                       b)ParkingTicketSystemV2.java
